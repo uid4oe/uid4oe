@@ -6,7 +6,9 @@
 
 <br/>
 
-I share experiments, PoCs, and educational content here. Currently focused on **agentic workflows**, **evals & improvement loops**, and **AI-native development** — with more emphasis on **high-level product and system thinking**. Repos include my Claude Code setup (plans, skills, commands, agents, `.claude/`).
+I share experiments, PoCs, and educational content here. 
+
+Currently focused on **agentic workflows**, **evals & improvement loops**, and **AI-native development** — with more emphasis on **high-level product and system thinking**. 
 
 
 ---
