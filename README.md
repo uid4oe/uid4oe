@@ -4,12 +4,6 @@
   </a>
 </h3>
 
-<br/>
-
-I share experiments, PoCs, and educational content here. 
-
-Currently focused on **agentic workflows**, **evals & improvement loops**, and **AI-native development** — with more emphasis on **high-level product and system thinking**. 
-
 
 ---
 
