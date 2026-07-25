@@ -17,4 +17,5 @@
 | 🌊 | [**tolk**](https://github.com/uid4oe/tolk-releases) | A lightweight, system-wide macOS app for seamless dictation and writing tools |
 | 🏗️ | [**system-design-patterns**](https://github.com/uid4oe/system-design-patterns) | Interactive system design pattern simulations with live topology visualization |
 | 🔬 | [**cve-agent-eval**](https://github.com/uid4oe/cve-agent-eval) | Living benchmark of AI agent architectures on CVE severity prediction with live dashboard |
+| 🎧 | [**tidalibre**](https://github.com/uid4oe/tidalibre) | Your music library, liberated — ISRC-keyed local source of truth for TIDAL with self-steering discovery |
 | 📈 | [**stockwiz**](https://github.com/uid4oe/stockwiz) | Claude Code plugin for deep-dive US equity research with bull/bear theses & HTML reports |
